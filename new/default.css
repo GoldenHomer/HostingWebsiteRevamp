@@ -35,6 +35,7 @@
 	p
 	{
 		line-height: 180%;
+		font-size: 24px;
 	}
 	
 	strong
@@ -96,14 +97,6 @@
 	{
 		margin: 0 auto;
 		width: auto;
-	}
-
-/*********************************************************************************/
-/* List Styles                                                                   */
-/*********************************************************************************/
-
-	ul.style1
-	{
 	}
 
 
@@ -365,7 +358,7 @@
 	{
 		overflow: hidden;
 		width: 1000px;
-		padding: 7em 100px 3em 100px;
+		padding: 2em 100px 3em 100px;
 		background: #FFF;
 	}
 
