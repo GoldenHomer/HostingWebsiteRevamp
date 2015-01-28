@@ -38,10 +38,6 @@
 		font-size: 24px;
 	}
 	
-	strong
-	{
-	}
-	
 	a
 	{
 		color: #96063b;
@@ -259,10 +255,11 @@
 
 	#header
 	{
-		position: relative;
-		margin-top: 3em;
-		padding: 3em 0em;
+		position: fixed;
+		margin-top: 1em;
+		padding: 3em 3em;
 		background: #96063b;
+		width: 90%;
 	}
 
 /*********************************************************************************/
